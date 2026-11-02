@@ -35,7 +35,7 @@ The script generates a CSV spreadsheet (`chexsystems_inquiries.csv`) with all in
 
 
 
-### 1. Test with the included sample
+### Test with the included sample
 
 A sanitized demo report (`sample.pdf`) is included so you can test immediately:
 
@@ -45,7 +45,7 @@ python check.py sample.pdf
 
 This will parse the sample inquiries and output `chexsystems_inquiries.csv`.
 
-### 2. Run with your own ChexSystems report
+### Run with your own ChexSystems report
 
 Provide the path to your downloaded ChexSystems PDF:
 
